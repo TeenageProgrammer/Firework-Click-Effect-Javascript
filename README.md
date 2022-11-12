@@ -6,9 +6,9 @@ Hey, this is a click effect project. Firework Click Effect with Javascript & HTM
 
 
 
-[🔴 Youtube Tutorial Video](https://youtu.be/aMjNGUaldGY?t=846)
+[🔴 Youtube Tutorial Video](https://youtu.be/kvZpMWjnSPg)
 
-[🔵 Live Project URL](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[🔵 Live Project URL](https://teenageprogrammer.github.io/Firework-Click-Effect-Javascript/)
 
 
 
